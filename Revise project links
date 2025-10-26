@@ -1,0 +1,30 @@
+# AI-Powered Loan Eligibility Advisory System
+
+This is a complete, real-time credit underwriting application designed for a banking environment. It uses a sophisticated AI model, intelligent document analysis (OCR), and a voice-enabled chatbot to automate and enhance the loan approval workflow.
+
+## Key Features
+
+* **Bank-Grade AI:** A "Hard Rules Engine" immediately rejects high-risk applicants based on critical factors like missed EMI payments, followed by a nuanced prediction from a Random Forest model.
+* **Dynamic AI Training:** The model is automatically trained on server startup using both a historical dataset and real-world application data, allowing it to become smarter over time.
+* **Intelligent Document Analysis:** The system uses advanced OCR with image pre-processing (OpenCV) and a multi-pass parsing engine to accurately extract and verify data from bank statements, Aadhaar cards, and salary slips.
+* **Voice-Enabled Chatbot:** An accessible, conversational AI that guides customers through the entire application process with strict, real-time validation for every question.
+* **End-to-End Workflow:** A complete, seamless process from initial customer interaction to final admin approval and automatic PDF report generation.
+
+## Technology Stack
+
+| Category      | Technology                    | Reason                                                               |
+| :------------ | :---------------------------- | :------------------------------------------------------------------- |
+| **Backend** | Python, FastAPI, Socket.IO    | High performance, industry standard for AI, and robust real-time capabilities. |
+| **AI/Data** | Scikit-learn, Pandas, OpenCV  | Powerful, reliable libraries for building the prediction model and processing documents. |
+| **Database** | SQLModel, SQLite              | Clean, Pythonic database interaction, simple for development.        |
+| **Frontend** | HTML, CSS, Vanilla JavaScript | Lightweight, fast, and universally compatible with no complex build steps. |
+
+## Check out the project here 👉 [Project](https://ai-credit-underwriting-system.onrender.com/)
+## Watch the project demo here 👉 [Demo](https://drive.google.com/file/d/1HUjIm4oGDf9BhR7Thco1qSdC4UAkxo6U/view?usp=drive_link)
+## 🌐 Live Preview
+[🔗 Open Project](https://ai-credit-underwriting-system.onrender.com/)
+
+## 🎥 Demo Video
+[▶️ Watch Now](https://drive.google.com/file/d/1HUjIm4oGDf9BhR7Thco1qSdC4UAkxo6U/view?usp=drive_link)
+
+## Local Setup & Run Instructions
