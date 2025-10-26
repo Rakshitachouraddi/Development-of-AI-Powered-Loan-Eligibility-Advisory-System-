@@ -42,7 +42,6 @@ python -m uvicorn app.main:app --reload
 Frontend Setup:
 
 
-
 # Open a NEW terminal and navigate to the frontend folder
 cd web_frontend
 
