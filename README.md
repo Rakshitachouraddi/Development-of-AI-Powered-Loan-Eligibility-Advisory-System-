@@ -48,4 +48,4 @@ python -m uvicorn app.main:app --reload
 cd web_frontend
 
 # Start the simple web server on port 8001
-python -m http.server 8001
+python -m http://localhost:8001.
