@@ -17,11 +17,11 @@ Produces professional, downloadable PDF summaries with eligibility outcomes, sup
 Seamless web interface with real-time responses, document upload support, and voice-enabled interaction.
 
 WATCH THE DEMO VIDEO HERE
-🎥 [Watch the project demo here](https://docs.google.com/spreadsheets/d/1CCOYVSf2VFyRcJ3QMnGpiiSNFuV-RZ6tD-3YYgSvQjU/edit?usp=sharing)
+🎥 [Watch the project demo here](https://drive.google.com/file/d/1IHeVr_hUyV4-YISmCmHpO4GVmG79gu2R/view?usp=sharing)
 
 
 ## 🚀 Live Deployment
 
-[![View Deployment](https://ai-credit-underwriting-system.onrender.com)
+[![View Deployment](https://img.icons8.com/fluency/96/rocket.png)](https://ai-credit-underwriting-system.onrender.com)
 
-> Click the rocket above to explore the live project.
+> Click the rocket above to open the live app 🌐
