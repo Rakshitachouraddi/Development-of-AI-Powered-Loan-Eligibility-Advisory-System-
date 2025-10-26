@@ -26,15 +26,6 @@ Seamless web interface with real-time responses, document upload support, and vo
 
 > Click the rocket above to open the live app 🌐
 >
-> Technology Stack
-Category	Technology	Reason
-Backend	Python, FastAPI, Socket.IO	High performance, industry standard for AI, and robust real-time capabilities.
-AI/Data	Scikit-learn, Pandas, OpenCV	Powerful, reliable libraries for building the prediction model and processing documents.
-Database	SQLModel, SQLite	Clean, Pythonic database interaction, simple for development.
-Frontend	HTML, CSS, Vanilla JavaScript	Lightweight, fast, and universally compatible with no complex build steps.
-Local Setup & Run Instructions
-1. Backend Setup:
-
 # Navigate to the backend folder
 cd backend
 
