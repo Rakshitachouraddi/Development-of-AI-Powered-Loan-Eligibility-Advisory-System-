@@ -26,6 +26,11 @@ Seamless web interface with real-time responses, document upload support, and vo
 
 > Click the rocket above to open the live app 🌐
 >
+# Local Setup & Run Instructions
+
+## 1. Backend Setup
+
+```bash
 # Navigate to the backend folder
 cd backend
 
@@ -39,13 +44,8 @@ pip install -r requirements.txt
 
 # Run the server (this will also train the AI model)
 python -m uvicorn app.main:app --reload
-Frontend Setup:
-
-
 # Open a NEW terminal and navigate to the frontend folder
 cd web_frontend
 
 # Start the simple web server on port 8001
 python -m http.server 8001
-
-Open your browser and go to http://localhost:8001.
